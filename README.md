@@ -11,7 +11,7 @@
 
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjanu&show_icons=true&include_all_commits=true&hide_border=true" alt="Viraj's github stats" />
-
+<a href="https://github.com/vjanu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjanu&layout=compact&hide_border=true" /></a>
   <h3> Programming Languages </h3>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -69,4 +69,5 @@
     
 
 </p>
- <a href="https://github.com/vjanu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjanu&layout=compact&hide_border=true" /></a> 
+ <p> 
+ <a href="http://www.github.com/vjanu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vjanu&theme=github-light&fire=DD0A0A&currStreakNum=000000"/></a></p>
