@@ -6,8 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vjanuradhawick@gmail.com)
 ![](https://komarev.com/ghpvc/?username=vjanu&color=blue&style=flat-square&label=Profile+visitors)
 
-
-- 🏢 I'm currently working at Hoist as a Technical Analyst
+<h3>What I do</h3>
+🏢 I'm currently working at Hoist as a Technical Analyst
 
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjanu&show_icons=true&include_all_commits=true&hide_border=true" alt="Viraj's github stats" />
