@@ -1,13 +1,13 @@
-### <center> <h3>Hi, I am Viraj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3></center>
+### 
+<center> <h2> Hi, I am Viraj - Full Stack Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2></center>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vjanu)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-wickramasinghe-649a0410b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alshoja@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vjanuradhawick@gmail.com)
 ![](https://komarev.com/ghpvc/?username=vjanu&color=blue&style=flat-square&label=Profile+visitors)
 
-Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
 
-- 🏢 I'm currently working at [Infopark Kerala India]()
-- Accruing knowledge on React,Vue,Ionic,Svelte
+
+- 🏢 I'm currently working at Hoist as a Technical Analyst
 
 
 
@@ -18,7 +18,6 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
