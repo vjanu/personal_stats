@@ -10,7 +10,7 @@
 - 🏢 I'm currently working at Hoist as a Technical Analyst
 
 <p>
-   <a href="https://github.com/vjanu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vjanu&show_icons=true&include_all_commits=true&hide_border=true" alt="Viraj's github stats" /></a> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjanu&show_icons=true&include_all_commits=true&hide_border=true" alt="Viraj's github stats" />
 
   <h3> Programming Languages </h3>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
